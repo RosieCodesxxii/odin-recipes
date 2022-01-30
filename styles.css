@@ -1,0 +1,17 @@
+/* styles.css */
+    * {
+    color: rgb(60, 38, 121);
+    background-color: rgba(245, 227, 242, 0.911);
+  }
+  #title {
+    background-color: red;
+  }
+  #title {font-size: 50px}
+  * {text-align: center}
+
+  * {font-family;"Papyrus"}
+  
+  img {
+    height: auto;
+    width: 200px;
+  }
